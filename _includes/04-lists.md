@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# Things I like:
+* Playing Guitar
+* Singing
+* Coding
+  * JavaScript
+  * HTML
+  * CSS
